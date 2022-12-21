@@ -14,7 +14,7 @@ import java.util.Objects;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-@Table(name = "medicos")
+@Table(name = "medico")
 @Entity(name = "Medico")
 public class Medico {
 
